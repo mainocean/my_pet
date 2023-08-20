@@ -1,4 +1,4 @@
-# pretty-paws site
+# Pretty paws site
 
 
 
